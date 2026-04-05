@@ -109,5 +109,3 @@ This project demonstrates how Exploratory Data Analysis can be used to extract m
 The findings can help improve content strategy, enhance user engagement, and support data-driven decision-making.
 
 ---
-
-⭐ This project is part of my data analytics portfolio.
