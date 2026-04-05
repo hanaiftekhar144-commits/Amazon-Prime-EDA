@@ -3,7 +3,7 @@
 ## 📊 Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on the Amazon Prime Video dataset to uncover insights related to content trends, ratings, and platform distribution.
 
-The dataset contains information about movies and TV shows including genres, release years, ratings, cast, and production countries. :contentReference[oaicite:0]{index=0}
+The dataset contains information about movies and TV shows including genres, release years, ratings, cast, and production countries. 
 
 The analysis helps understand how content is distributed across the platform and what factors influence ratings and popularity.
 
