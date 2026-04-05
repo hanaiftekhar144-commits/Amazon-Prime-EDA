@@ -65,7 +65,6 @@ The main goal of this project is to:
 ---
 
 ## 📊 Key Visualizations
-(Add your screenshots here)
 
 - Genre Distribution Chart  
 - Ratings Distribution  
